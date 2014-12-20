@@ -18,6 +18,7 @@ Measures have are a compound carrying several meanings in their name:
 
     If the first letter is t then the measure is in Time domain
     If the first letter is f then the measure is in Frequency domain
+    If the last letters are either X,Y, or Z then X, Y, Z axes respectively are denoted 
     If it contains mean then the measure is the average value.
     If it contains std then the measure is the standard deviation.
     If it contains Gravity then the measure is due to the gravitational force.
